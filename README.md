@@ -1,7 +1,10 @@
-### 📊 GitHub Stats
+### 📊 GitHub Profile Overview
 
-![Vortex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VoreX-Lab&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VoreX-Lab&layout=compact&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/github/followers/VoreX-Lab?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
+  <img src="https://img.shields.io/github/stars/VoreX-Lab?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
+</p>
+
 # Hi there, I'm Emmanuel 👋
 
 ### 🚀 Full-Stack & Frontend Developer
