@@ -34,10 +34,16 @@ I specialize in crafting responsive, high-performance web applications and dynam
 
 ---
 
-### 📌 Featured Projects
-* 🛒 **VeloTerra** – Social commerce platform designed for performance and seamless vendor integration.
-* 🍔 **Fresh Bite** – Mobile-first restaurant ordering application with dynamic menus and direct WhatsApp routing.
-* 💼 **Personal Portfolio** – Dark-mode optimized web developer showcase built with Tailwind CSS.
+- 🛠️ **SoluTech** – Single-page gadget repair web app featuring instant cost estimation and interactive appointment booking. ([Live Demo](https://vorex-lab.github.io/SoluTech/))
+- 💌 **Valentine-project** – Playful interactive web application with an evasive "No" button and proposal flow. ([Live Demo](https://vorex-lab.github.io/Valentine-project/))
+- 🍔 **Fresh Bite** – Mobile-first restaurant ordering application with dynamic menus and direct WhatsApp routing.
+
+---
+
+### 📬 Connect With Me
+
+- 🌐 **Portfolio:** [vortex-lab.github.io](https://vorex-lab.github.io) 
+- 📧 **Email:** [emmanuelalabi977@gmail.com](mailto:emmanuelalabi977@gmail.com)
 
 ---
 
