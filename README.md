@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/VoreX-Lab?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22" />
 </p>
 
-# Hi there, I'm Emmanuel 👋
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vortex_lab)
 
 ### 🚀 Full-Stack & Frontend Developer
 I specialize in crafting responsive, high-performance web applications and dynamic user interfaces using modern web technologies.
