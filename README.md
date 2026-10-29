@@ -51,7 +51,11 @@ I specialize in crafting responsive, high-performance web applications and dynam
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VoreX-Lab&theme=dark&background=161b22&border=30363d&fire=ff7b72&sideLabels=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VoreX-Lab&layout=compact&theme=dark&bg_color=161b22&border_color=30363d)](https://github.com/VoreX-Lab/VoreX-Lab)
+### 💻 Most Used Languages
+
+- 🟨 **JavaScript / HTML / CSS** (Frontend Core)
+- 🟦 **PHP & C# (.NET)** (Backend & API Logic)
+- 🟩 **MySQL & Microsoft SQL Server** (Databases)
 
 ---
 
