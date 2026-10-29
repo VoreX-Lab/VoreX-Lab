@@ -55,6 +55,6 @@ I specialize in crafting responsive, high-performance web applications and dynam
 
 ---
 
-### 📫 Connect With Me
-* 🌐 **Portfolio:** *[Add link here]*
-* ✉️ **Email:** emmanuelalabi977@gmail.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VoreX-Lab&color=ff7b72&style=flat-square" alt="Profile Visitor Count" />
+</p>
